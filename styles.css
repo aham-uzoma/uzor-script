@@ -854,7 +854,7 @@ html {
 }
 @media screen and (max-width: 500px) {
   .carousel .list .item .content .topic {
-    font-size: 4em;
+    font-size: 6em;
   }
 }
 @media screen and (max-width: 375px) {
@@ -862,7 +862,7 @@ html {
     padding-right: 0;
   }
   .carousel .list .item .content .topic {
-    font-size: 3em;
+    font-size: 5em;
   }
   .thumbnail .item {
     width: 125px;
