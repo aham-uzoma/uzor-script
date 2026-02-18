@@ -857,6 +857,18 @@ html {
     /* font-size: 6em; */
     font-size: clamp(2rem, 6vw, 7rem);
   }
+  .carousel .list .item .content .dec {
+    font-size: clamp(0.9rem, 2.5vw, 1.2rem);
+    line-height: 1.6;
+  }
+  .project .list .items .content .desc {
+    font-size: clamp(0.9rem, 2.5vw, 1.2rem);
+    line-height: 1.6;
+  }
+  .contacts .contactsInner .content .text .desc {
+    font-size: clamp(0.9rem, 2.5vw, 1.2rem);
+    line-height: 1.6;
+  }
 }
 @media screen and (max-width: 375px) {
   .carousel .list .item .content {
@@ -866,6 +878,19 @@ html {
     /* font-size: 5em; */
     font-size: clamp(2rem, 6vw, 7rem);
   }
+  .carousel .list .item .content .dec {
+    font-size: clamp(0.9rem, 2.5vw, 1.2rem);
+    line-height: 1.6;
+  }
+  .project .list .items .content .desc {
+    font-size: clamp(0.9rem, 2.5vw, 1.2rem);
+    line-height: 1.6;
+  }
+  .contacts .contactsInner .content .text .desc {
+    font-size: clamp(0.9rem, 2.5vw, 1.2rem);
+    line-height: 1.6;
+  }
+
   .thumbnail .item {
     width: 125px;
     height: 200px;
